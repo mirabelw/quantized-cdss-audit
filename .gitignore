@@ -1,0 +1,15 @@
+# Downloaded public dataset (fetched automatically by the scripts)
+cache/
+*.zip
+
+# Per-draw quantized/probe models written during native ONNX runs
+native_strong_int8_*.onnx
+native_strong_probe_*.onnx
+
+# Python and editor clutter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
+*.log

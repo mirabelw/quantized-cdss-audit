@@ -1,0 +1,14 @@
+{
+  "command": "python validate_stronger_onnx.py --draws 12 --matmul-only --output native_matmul_results",
+  "ml_dtypes": "0.6.0",
+  "numpy": "2.3.5",
+  "onnx": "1.23.0",
+  "onnxruntime": "1.30.0",
+  "pandas": "2.2.3",
+  "protobuf": "7.36.2",
+  "python": "3.12.14",
+  "quantization_scope": "MatMul inputs and weights, no MatMul output quantization",
+  "scikit-learn": "1.8.0",
+  "scipy": "1.17.0",
+  "skl2onnx": "1.20.0"
+}
