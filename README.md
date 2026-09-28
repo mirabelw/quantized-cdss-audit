@@ -2,7 +2,7 @@
 
 Code and derived results for the paper *Auditing Quantization in a Clinical
 Prediction Testbed: Explanation Stability and Calibration-Set Privacy*
-(anonymized for review).
+(under review).
 
 The study fits three small MLPs to predict 30-day readmission on the public
 UCI Diabetes 130-US Hospitals dataset, then measures how post-training
