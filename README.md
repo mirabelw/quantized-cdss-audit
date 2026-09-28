@@ -1,7 +1,7 @@
-# Auditing Quantization in a Clinical Prediction Testbed
+# Beyond AUROC
 
-Code and derived results for the paper *Auditing Quantization in a Clinical
-Prediction Testbed: Explanation Stability and Calibration-Set Privacy*
+Code and derived results for the paper *Beyond AUROC: How Quantization Changes
+Explanations, Decisions, and Calibration-Set Privacy in a Clinical Risk Model*
 (under review).
 
 The study fits three small MLPs to predict 30-day readmission on the public
